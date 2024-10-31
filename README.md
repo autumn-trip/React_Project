@@ -1,5 +1,8 @@
 **기술 스택** : React, JavaScript, HTML, CSS
 
+- ![image](https://github.com/user-attachments/assets/a75a1625-8068-49c7-af91-f5ae9427b624)
+
+
 **▶ 홈 화면**
 - ![image](https://github.com/user-attachments/assets/bfd74b2e-c0e3-4735-b0ea-8f6aa5f21e40)
 
